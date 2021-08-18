@@ -49,7 +49,7 @@ kz_alt_cargo
 kz_alt_aztec
 kz_amber_od
 kz_ancient_v3
-kz_anotherclimbmap
+kz_another_climb_map
 kz_antigeneric
 kz_antiquity 
 kz_anus
