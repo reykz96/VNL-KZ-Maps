@@ -145,6 +145,7 @@ kz_dungeon
 kz_dvn_cube_fixed
 kz_dvn_dull
 kz_dvn_redcarpet
+kz_dyd_ladderjumps
 kz_ea_beneath
 kz_edifice
 kz_edp445
