@@ -384,6 +384,7 @@ kz_synergy_ez
 kz_sz_goldenbean
 kz_terablock
 kz_thinkblock
+kz_timescape_zero
 kz_tomb_fix
 kz_toonadventure_go
 kz_toonrun_final
@@ -415,6 +416,7 @@ kz_xmas2009
 kz_xmas2020
 kz_xtremeblock_v2
 kz_za_tileblock
+kz_zxp_final4
 kzpro_justrun_sp
 skz_map
 vnl_cat
