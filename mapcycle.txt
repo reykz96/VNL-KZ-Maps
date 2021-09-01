@@ -298,6 +298,7 @@ kz_nightfall
 kz_nightmare_v2
 kz_nuclear
 kz_obsidian
+kz_oldstuff
 kz_olympus
 kz_ominous2
 kz_otakuroom
