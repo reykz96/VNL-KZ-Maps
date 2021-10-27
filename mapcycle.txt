@@ -60,6 +60,7 @@ kz_asphyxiate
 kz_asteroid_field_go
 kz_autobadges
 kz_aztec
+kz_azure
 kz_babycat_fix
 kz_bacho
 kz_basicnoon
@@ -67,8 +68,9 @@ kz_baxter
 kz_beanguy_v2
 kz_beginnerblock_go
 kz_betterdunjun
-kz_beyond
+kz_beyond_fix
 kz_bhop_essence
+kz_bhop_lucid
 kz_bhop_lj
 kz_bhop_monsterjam
 kz_bhop_watertemple
@@ -90,7 +92,7 @@ kz_cargo
 kz_carp_v2
 kz_cartooncastle_go
 kz_cascade_v4
-kz_castlehops_v2
+kz_castlehops_v3
 kz_cataclysm
 kz_catalyst_gfix
 kz_catharsis_global
@@ -116,6 +118,7 @@ kz_comp_global
 kz_complex
 kz_conifer
 kz_construction
+kz_correguachin_reisido
 kz_cousucks
 kz_cranking_the_hog
 kz_crash_fix
@@ -149,6 +152,7 @@ kz_dyd_ladderjumps
 kz_ea_beneath
 kz_edifice
 kz_edp445
+kz_eimeristzurueck
 kz_emblem
 kz_emblem_bonus
 kz_ephemeral
@@ -173,6 +177,7 @@ kz_final_ascension
 kz_flying_rabbits
 kz_forchi
 kz_forestrace_go
+kz_freezing_ridge
 kz_frozen_go
 kz_fury
 kz_futureblock
@@ -193,6 +198,7 @@ kz_goldenroad
 kz_gonbe
 kz_goodluck_p
 kz_green
+kz_grey
 kz_haki_v2
 kz_halicarnassus_fs
 kz_hate
@@ -200,11 +206,14 @@ kz_hb_anduu
 kz_hb_fykseN
 kz_hb_lrs
 kz_hb_smieszneznaczki
+kz_headbongo
 kz_hellinashop
 kz_hillside
 kz_holdmyhand
+kz_holmu1
 kz_holyspace
 kz_huber
+kz_hyroblock
 kz_ickkck
 kz_illusion_gfix
 kz_intercourse!
@@ -215,6 +224,7 @@ kz_janpu_final_fix
 kz_johndoe
 kz_jump_n_run
 kz_kiwifactory
+kz_kiwitown
 kz_kohze_sucks
 kz_kzra_bars
 kz_kzra_fustcaves
@@ -261,6 +271,7 @@ kz_kzro_syotiles
 kz_kzro_whiterock
 kz_kzro_yaruna
 kz_kzse_aztectemple
+kz_lair
 kz_lavablock_global
 kz_layercake
 kz_lego
@@ -308,6 +319,7 @@ kz_paintball_tv_fix
 kz_paradise
 kz_peak_global
 kz_perfunctory
+kz_persona_is_a_dictator
 kz_phamous
 kz_pharaoh_csgo
 kz_pharos_fix
@@ -418,6 +430,7 @@ kz_xmas2009
 kz_xmas2020
 kz_xtremeblock_v2
 kz_za_tileblock
+kz_ziggurath_final
 kz_zxp_final4
 kzpro_justrun_sp
 skz_map
@@ -436,6 +449,7 @@ xc_karo4
 xc_minecraft2_global
 xc_minecraft3_global
 xc_minecraft4
+xc_nephilim
 xc_powerblock_rc1
 xc_secret_valley_global_fix
 xc_skycastle
