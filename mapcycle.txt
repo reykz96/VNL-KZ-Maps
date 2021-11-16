@@ -198,10 +198,10 @@ kz_goldenroad
 kz_gonbe
 kz_goodluck_p
 kz_green
-kz_grey
 kz_haki_v2
 kz_halicarnassus_fs
 kz_hate
+kz_hb_3kliksphilip
 kz_hb_anduu
 kz_hb_fykseN
 kz_hb_lrs
@@ -223,6 +223,7 @@ kz_j2s_westbl0ck
 kz_janpu_final_fix
 kz_johndoe
 kz_jump_n_run
+kz_kiwionerous
 kz_kiwifactory
 kz_kiwitown
 kz_kohze_sucks
@@ -255,6 +256,7 @@ kz_kzro_darkhole
 kz_kzro_excitedbhop
 kz_kzro_fastcliff
 kz_kzro_gohome
+kz_kzro_greybrickbhop
 kz_kzro_jaashs
 kz_kzro_mountainbhop
 kz_kzro_mountainhaya
@@ -348,6 +350,7 @@ kz_reach_v2
 kz_redemption_csgo
 kz_redline
 kz_remedy_v2
+kz_retreat
 kz_rise
 kz_rockclimb
 kz_rockjungle_v2
@@ -360,6 +363,7 @@ kz_sandstone_mq
 kz_sandyhill_hoc
 kz_sendhelp_final
 kz_serenity
+kz_sewage
 kz_shaft_fix
 kz_shortcut_tx
 kz_signs_v2
@@ -380,6 +384,7 @@ kz_sp1_redconcrete
 kz_sp1_perf2win
 kz_sp1_kyuubisroom
 kz_sp1_siedlungclimb
+kz_sp1_whiteblocks
 kz_spire
 kz_spiritblockv2
 kz_splopkopsc_loverick
@@ -437,8 +442,8 @@ skz_map
 vnl_cat
 vnl_invasion
 vnl_oy_lj
-vnl_sewage
 vnl_slidegarden
+vnl_undefined
 vnl_whiterun
 xc_alt_nephilim
 xc_dreamland2
