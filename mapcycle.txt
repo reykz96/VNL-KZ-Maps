@@ -28,7 +28,6 @@ kz_16pillars
 kz_11342	
 kz_11735
 kz_21loop_final_fix
-kz_2fast
 kz_2seasons_spring_final
 kz_2seasons_winter_final
 kz_4u_nature
@@ -69,7 +68,7 @@ kz_beanguy_v2
 kz_beginnerblock_go
 kz_betterdunjun
 kz_beyond_fix
-kz_bhop_essence
+kz_bhop_lego
 kz_bhop_lucid
 kz_bhop_lj
 kz_bhop_monsterjam
@@ -280,8 +279,9 @@ kz_lego
 kz_legoland
 kz_lego_two_redux_v3
 kz_littlerock_v2
-kz_longjumps_easy
+kz_loftroofs
 kz_lookout
+kz_lume
 kz_luonto
 kz_mac
 kz_machinery
@@ -296,7 +296,6 @@ kz_micropenis
 kz_mike_v4
 kz_minimalism
 kz_minimountain_f
-kz_moonlight
 kz_moorerutan
 kz_morebricks_msq
 kz_motivated
