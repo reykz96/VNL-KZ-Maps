@@ -257,6 +257,7 @@ kz_kzro_fastcliff
 kz_kzro_gohome
 kz_kzro_greybrickbhop
 kz_kzro_jaashs
+kz_kzro_justgrab
 kz_kzro_mountainbhop
 kz_kzro_mountainhaya
 kz_kzro_mountainroad
@@ -269,6 +270,8 @@ kz_kzro_smallcanyon
 kz_kzro_speedcavescape
 kz_kzro_sunmountainset
 kz_kzro_syotiles
+kz_kzro_tamlair
+kz_kzro_wallblocks
 kz_kzro_whiterock
 kz_kzro_yaruna
 kz_kzse_aztectemple
@@ -378,10 +381,12 @@ kz_sp1_blueconcrete
 kz_sp1_castaway
 kz_sp1_greenconcrete
 kz_sp1_greyconcrete
+kz_sp1_greyhollowrock
 kz_sp1_redbrickbhop
 kz_sp1_redconcrete
 kz_sp1_perf2win
 kz_sp1_kyuubisroom
+kz_sp1_rockcanyonblocks
 kz_sp1_siedlungclimb
 kz_sp1_whiteblocks
 kz_spire
