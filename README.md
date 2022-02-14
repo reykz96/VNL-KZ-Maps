@@ -1,5 +1,5 @@
 # VNL KZ Maps
-As of 02/13/2022; these collections included the maps that are known to be possible in the VNL gamemode, not including maps that have been removed from the GlobalAPI at the request of the map creator. Please contact me at rey#4300 on discord if there is a missing map or a corrupted map file.
+As of 02/14/2022; these collections included the maps that are known to be possible in the VNL gamemode, not including maps that have been removed from the GlobalAPI at the request of the map creator. Please contact me at rey#4300 on discord if there is a missing map or a corrupted map file.
 
 Global VNL Maps: [Google Drive | 5.29GB](https://drive.google.com/file/d/1qlRHAi7buSEm7oxA6C_ZAHDBrwJTOxfp/view?usp=sharing)
 
